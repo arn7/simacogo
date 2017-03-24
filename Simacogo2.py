@@ -1,4 +1,4 @@
-# Ashley Naratadam
+
 
 class Node:
     def __init__(self, board = None, parent = None, score = 0, aiScore = 0):
